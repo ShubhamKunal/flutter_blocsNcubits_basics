@@ -1,7 +1,7 @@
+import 'package:bloc_concepts/cubits/internet_cubit.dart';
 import 'package:bloc_concepts/views/homepage.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-
 import 'blocs/internet_bloc/internet_bloc.dart';
 
 void main() {
